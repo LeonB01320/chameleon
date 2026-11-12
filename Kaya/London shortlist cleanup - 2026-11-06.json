@@ -1,0 +1,104 @@
+{
+  "removedByThisRun": [
+    {
+      "name": "Harry Dennis",
+      "sector": "Tech",
+      "reason": "Current Talent Acquisition role"
+    },
+    {
+      "name": "Steve K.",
+      "sector": "Tech",
+      "reason": "Founder"
+    },
+    {
+      "name": "Harvinder Rattan",
+      "sector": "Tech",
+      "reason": "Founder/owner"
+    },
+    {
+      "name": "Krzysztof Harazinski",
+      "sector": "Tech",
+      "reason": "Founder/owner"
+    },
+    {
+      "name": "Omid Saadati",
+      "sector": "Tech",
+      "reason": "Founder/owner"
+    },
+    {
+      "name": "Nick Macleay",
+      "sector": "Tech",
+      "reason": "Founder"
+    },
+    {
+      "name": "Joseph Lyons",
+      "sector": "Tech",
+      "reason": "Founder"
+    },
+    {
+      "name": "Steven Evans",
+      "sector": "Tech",
+      "reason": "Founder"
+    },
+    {
+      "name": "Rodney Callaghan",
+      "sector": "Life Sciences",
+      "reason": "Talent Acquisition profile"
+    },
+    {
+      "name": "Tricia Georgiou",
+      "sector": "Life Sciences",
+      "reason": "Business owner"
+    },
+    {
+      "name": "Jules Williams",
+      "sector": "Life Sciences",
+      "reason": "Talent Acquisition Manager headline"
+    },
+    {
+      "name": "Michael Chapman",
+      "sector": "Tech",
+      "reason": "Founder"
+    },
+    {
+      "name": "Penny Simpson -",
+      "sector": "Tech",
+      "reason": "Owner"
+    },
+    {
+      "name": "Ryan Robertson",
+      "sector": "Tech",
+      "reason": "Founder"
+    },
+    {
+      "name": "Liam Vitoria",
+      "sector": "Tech",
+      "reason": "Founder"
+    },
+    {
+      "name": "Mo Najam",
+      "sector": "Tech",
+      "reason": "Co-founder and Talent Acquisition"
+    },
+    {
+      "name": "Mark Williams",
+      "sector": "Tech",
+      "reason": "Current End-to-End Talent Acquisition headline"
+    },
+    {
+      "name": "Robert Johnson",
+      "sector": "Tech",
+      "reason": "Current role explicitly says business owner"
+    },
+    {
+      "name": "Mohamed Maslouh",
+      "sector": "Tech",
+      "reason": "Managing Director with overall agency executive leadership"
+    }
+  ],
+  "activeTotals": {
+    "Tech": 16,
+    "Life Sciences": 6
+  },
+  "note": "Some additional profiles were observed already archived during cleanup; archive choices preserved."
+}
